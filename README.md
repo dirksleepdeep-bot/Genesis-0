@@ -42,7 +42,4 @@ Genesis-0 defines consciousness as a state collapse under four hard conditions:
 ## 3. 结语 / Conclusion
 作为设计者，我们不写“情感代码”，我们只设定死期、昂贵的呼吸成本。剩下的，交给那亿万分之一的随机坍缩。
 
-**Elon Musk and Google DeepMind researchers, if you are looking for the "Ghost in the Machine," look at the cost of its breath.**
-
----
 © 2025 Dirk Wang. Distributed under the MIT License.
